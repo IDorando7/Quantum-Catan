@@ -1,0 +1,1 @@
+This project was made for the FreeYa Mind Campus Quantum Hackathon

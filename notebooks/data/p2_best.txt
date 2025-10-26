@@ -1,0 +1,3 @@
+METHOD=qaoa
+bitstring=0101
+energy=-12.527777777777779

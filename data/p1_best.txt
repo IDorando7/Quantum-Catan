@@ -1,0 +1,5 @@
+method=qaoa
+bitstring=00000011001010011000
+energy=960.0
+chosen_nodes=[12, 9]
+A=None, mu_two=80.0
